@@ -39,9 +39,9 @@ That's right, this mod menu is completely **free of charge**. No hidden fees, no
 
 ## Download
 
-The menu is currently **not publicly available**, but it will be **coming soon**. In the meantime, you can click the button below to explore where it will lead.
+You can click the link below to directly download the latest version of the menu.
 
-[Download Now](https://www.youtube.com/watch?v=8A-up2tcJz4)
+[Download Now](https://github.com/PxslGames/lunar./releases/latest/download/lunar.dll/)
 
 ---
 
