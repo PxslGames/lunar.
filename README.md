@@ -16,6 +16,8 @@
 
 lunar is a **mod menu** created with the simple goal of fun. Developed by one person, Pxsl (That's Me!), lunar is packed with **59 mods** to elevate your gaming experience.
 
+> **Note**: While lunar is **not open-sourced**, you can still inspect the code using tools like **DNSpy**. This allows you to see how it works, ensuring transparency and learning without having full access to the repository.
+
 ---
 
 ## Features
