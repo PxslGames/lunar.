@@ -22,7 +22,9 @@ lunar is a **mod menu** created with the simple goal of fun. Developed by one pe
 
 ## Features
 
-You can view the mod count and more on the menu's [website](https://pxslgames.github.io/lunarmenu)
+I do not want to also update this every update, on top of updating the website, so
+You can view the mod count and more info about the menu on the [here](https://pxslgames.github.io/lunarmenu)
+Sorry for any inconvenience!
 
 ---
 
