@@ -20,19 +20,7 @@ lunar is a **mod menu** created with the simple goal of fun. Developed by one pe
 
 ## Features
 
-The lunar mod menu includes a wide array of mods, categorized for easy access:
-
-- **Current Mod Count:** 59
-- **Menu Config:** 9
-- **Movement Config:** 0
-- **Projectile Config:** 0
-- **Important:** 6
-- **Room:** 3
-- **Movement:** 10
-- **Rig:** 12
-- **Fun:** 14
-- **Visual:** 5
-- **Advantage:** 0
+You can view the mod count and more on the menu's (website)[https://pxslgames.github.io/lunarmenu]
 
 ---
 
