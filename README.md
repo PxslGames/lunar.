@@ -1,5 +1,7 @@
 # lunar. - A Free Mod Menu
 
+# this menu is one that i made like AGES ago, so is probably kinda skidded and will be detected and bad. still has a nice design and theme though
+
 **lunar** is a free mod menu created for fun by a solo developer, **Pxsl**. It features a variety of mods, each designed to enhance gameplay in different ways. Keep reading to discover more about lunar’s features, pricing, and how you can download it (soon)!
 
 ## Navigation
